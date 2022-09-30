@@ -31,6 +31,7 @@ public class test {
         System.out.println("Tổng mảng thứ 2: "+sum2);
         System.out.println("Giá trị phần tử: ");
         System.out.println(sum1 - sum2);
+
     }
     public static void show(int[] arr){
         for (int i=0;i<arr.length;i++){
